@@ -1,6 +1,7 @@
 # electron-app
 
-An Electron application with React, TypeScript, TailwindCSS, Zod and Zustand.
+An Electron FS (From 'start' to 'finish') task application with React, TypeScript, TailwindCSS, Zod and Zustand.
+In this app you can add new tasks/to-do to you list and view on the second page you tasks timeline history.
 
 ## Recommended IDE Setup
 
