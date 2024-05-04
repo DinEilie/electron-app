@@ -1,6 +1,6 @@
 # electron-app
 
-An Electron application with React and TypeScript
+An Electron application with React, TypeScript, TailwindCSS, Zod and Zustand.
 
 ## Recommended IDE Setup
 
